@@ -94,4 +94,4 @@ Eğer herhangi bir sorun bulursanız veya geliştirme öneriniz varsa, bu depoyu
 
 ## LİSANS
 
-Bu proje MIT Lisansı altında mevcuttur. Daha fazla bilgi için lütfen [LICENSE](https://github.com/jotavare/minitalk/blob/master/LICENSE) dosyasına bakın.
+Bu proje MIT Lisansı altında mevcuttur. Daha fazla bilgi için lütfen [LICENSE](LICENSE) dosyasına bakın.
