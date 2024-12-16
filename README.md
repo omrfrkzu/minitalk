@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+	<a href='https://www.linkedin.com/in/omrfrkzu/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://42kocaeli.com.tr/' target="_blank"><img alt='42' src='https://img.shields.io/badge/42-Kocaeli-Kocaeli'/></a>
 </p>
 
 <p align="center">
@@ -20,13 +20,10 @@
 ## HAKKINDA
 Bu, UNIX sinyallerini kullanarak iletişim kuran bir sunucu/istemci sistemidir. Sunucu, PID'sini gösterir ve gelen sinyalleri karakterlere dönüştürerek görüntülerken; istemci mesajları şifreler ve sunucunun PID'sine **SIGUSR1** veya **SIGUSR2** sinyalleri gönderir.
 
-- [Konu](https://github.com/jotavare/minitalk/blob/master/subject/en_subject_minitalk.pdf) `PDF`
-- [Referanslar](https://github.com/jotavare/42-resources#02-minitalk) `GitHub`
-
 ## NASIL KULLANILIR
 #### 1º - Depoyu klonlayın
 ```bash
-git clone https://github.com/jotavare/minitalk
+git clone https://github.com/omrfrkzu/minitalk
 ```
 
 #### 2º - Proje klasörüne girin ve `make` komutunu çalıştırın
